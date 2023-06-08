@@ -1,7 +1,12 @@
+/**************************
+Name: Odelya Yaakowich
+ID: 207346784
+****************************/
+
 #include <iostream>
 #include <exception>
 #include "PriorityQueue.h"
-#include "Dog.h" 
+#include "Dog.h"
 
 using std::cout; 
 using std::endl;
