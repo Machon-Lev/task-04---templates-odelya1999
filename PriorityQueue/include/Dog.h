@@ -1,3 +1,8 @@
+/**************************
+Name: Odelya Yaakowich
+ID: 207346784
+****************************/
+
 #pragma once
 #include <iostream>
 #include <string>
@@ -26,4 +31,4 @@ ostream& operator<< (ostream& os, Dog d);
 
 Dog operator-(const Dog& lhs, const Dog& rhs);
 
-bool operator<(const Dog& lhs, const int rhs);
+bool operator<(const Dog& lhs, const Dog& rhs);
